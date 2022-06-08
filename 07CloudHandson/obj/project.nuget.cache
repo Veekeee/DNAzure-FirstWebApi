@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tAk6VN2ecmnMNMVB4zx/sK8eVUTUNTD9OtVKQRgQakyZ2WSKuZ1llb+oswZjzCfqJXtTd0J0wf+sKiJh0NqrHA==",
+  "success": true,
+  "projectFilePath": "E:\\intern notes\\DotNet Core\\DemoProject\\07CloudHandson\\07CloudHandson\\07CloudHandson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VIGNESH K S\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\VIGNESH K S\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\VIGNESH K S\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\VIGNESH K S\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\VIGNESH K S\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\VIGNESH K S\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\VIGNESH K S\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
